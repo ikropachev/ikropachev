@@ -11,7 +11,7 @@ Hi, I'm Ivan.
 * Swagger (API)
 
 <p>
-	<a href='mailto:ikropachev@gmail.com'>ikropachev89@gmail.com</a>
+	<a href='mailto:ikropachev89@gmail.com'>ikropachev89@gmail.com</a>
 </p>
 <p>
 	<a href="https://www.linkedin.com/in/ikropachev/">LinkedIn</a>
