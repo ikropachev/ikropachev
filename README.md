@@ -5,7 +5,7 @@ Hi, I'm Ivan.
 * JDK 8-17
 * Spring Framework, Spring MVC, Spring Security, Spring Data JPA
 * JDBC, JPA (Hibernate)
-* PostgreSQL, MySQL, HSQLDB
+* PostgreSQL, MySQL, HSQLDB, H2 Database
 * JUnit 4-5
 * Maven
 * Swagger (API)
