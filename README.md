@@ -3,7 +3,7 @@ Hi, I'm Ivan.
 <p> Сertified Java developer, specializing in development of RESTful services using TDD practices, based on tech stack:
 
 * JDK 8-17
-* Spring Framework, Spring MVC, Spring Security, Spring Data JPA
+* Spring Framework, Spring MVC, Spring Boot, Spring Security, Spring Data JPA
 * JDBC, JPA (Hibernate)
 * PostgreSQL, MySQL, HSQLDB, H2 Database
 * JUnit 4-5
