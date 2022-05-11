@@ -8,7 +8,7 @@ Hi, I'm Ivan.
 * PostgreSQL, MySQL, HSQLDB, H2 Database
 * JUnit 4-5
 * Maven
-* Swagger (API)
+* Swagger v2-3 (API)
 
 <p align='center'>
 	<a href='https://t.me/ikropachev'>
