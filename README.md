@@ -7,6 +7,7 @@ Hi, I'm Ivan.
 * JDBC, JPA (Hibernate)
 * PostgreSQL, MySQL, HSQLDB, H2 Database
 * JUnit 4-5
+* Log4j, SLF4J, Logback
 * Maven
 * Swagger v2-3 (API)
 
