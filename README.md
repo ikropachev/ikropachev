@@ -10,6 +10,7 @@ Hi, I'm Ivan.
 * Log4j, SLF4J, Logback
 * Maven
 * Swagger v2-3 (API)
+* Tomcat, JNA
 
 <p align='center'>
 	<a href='https://t.me/ikropachev'>
