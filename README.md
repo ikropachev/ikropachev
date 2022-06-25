@@ -9,7 +9,7 @@ Hi, I'm Ivan.
 * JUnit 4-5
 * Log4j, SLF4J, Logback
 * Maven
-* Swagger v2-3 (API)
+* Swagger v2-3
 * Tomcat, JNA
 
 <p align='center'>
