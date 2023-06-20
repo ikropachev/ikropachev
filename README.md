@@ -12,6 +12,7 @@ Hi, I'm Ivan.
 * Swagger v2-3
 * Tomcat, JNA
 * Alfresco ECM
+* batch/bash/ps1/nsh scripts
 
 <p align='center'>
 	<a href='https://t.me/ikropachev'>
