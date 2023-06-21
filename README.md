@@ -13,6 +13,7 @@ Hi, I'm Ivan.
 * Tomcat, JNA
 * Alfresco ECM
 * batch/bash/ps1/nsh scripts
+* Pentaho Report Designer
 
 <p align='center'>
 	<a href='https://t.me/ikropachev'>
