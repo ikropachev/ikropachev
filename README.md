@@ -1,6 +1,6 @@
 Hi, I'm Ivan.
 
-<p> Сertified Java developer, specializing in development of RESTful services using TDD practices, based on tech stack:
+<p> Working on a tech stack:
 
 * JDK 8-18
 * Spring Framework, Spring MVC, Spring Boot, Spring Security, Spring Data JPA
