@@ -5,7 +5,7 @@ Hi, I'm Ivan.
 * JDK 8-18
 * Spring Framework, Spring MVC, Spring Boot, Spring Security, Spring Data JPA
 * JDBC, JPA (Hibernate)
-* PostgreSQL, MySQL, HSQLDB, H2 Database
+* PostgreSQL, MySQL 5-8, HSQLDB, H2 Database
 * JUnit 4-5
 * Log4j, SLF4J, Logback
 * Maven
