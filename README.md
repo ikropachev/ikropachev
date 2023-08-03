@@ -14,6 +14,7 @@ Hi, I'm Ivan.
 * Alfresco ECM
 * batch/bash/ps1/nsh scripts
 * Pentaho Report Designer
+* Apache Airflow 1.8.0 - 2.6.3
 
 <p align='center'>
 	<a href='https://t.me/ikropachev'>
